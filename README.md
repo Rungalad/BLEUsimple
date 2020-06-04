@@ -1,7 +1,7 @@
 # BLEUsimple
 BLEU simplified for json cv parsed
 
-# Func launcing
+# Func launching
 
 import json
 
